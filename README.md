@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/homepage-preview.png" alt="emotion-detector — Home Page Preview" width="100%" />
+</p>
+
 # Emotion Detector
 
 **Emotion Detector** is an AI-based web application that analyzes a statement
